@@ -1,6 +1,7 @@
 **An Ode to Learning Git & GitHub**  
 
-Amid the halls of UCSC's domain,Three colleagues sought to master the terrain.  
+Amid the halls of UCSC's domain,  
+Three colleagues sought to master the terrain.  
 In their OSPO's realm, they ventured forth,  
 With Git and GitHub, they aimed for worth.  
 
