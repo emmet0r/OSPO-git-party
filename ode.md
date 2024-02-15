@@ -13,7 +13,7 @@ Through pull requests and branches bold,
 Their knowledge soared, their stories TOLD.  
 Encouraged by the community's embrace,  
   
-They nnnnavigated with skill and graceee.  
+They navigated with skill and grace.  
 
 ---
 
